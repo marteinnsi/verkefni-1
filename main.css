@@ -31,8 +31,10 @@ a.navigate {
 ul {
     list-style-type:circle; 
     padding-left: 3em;
-    color: white;
-    }
+    font-style: italic;
+    color: black;
+    font-weight: 800;
+}
 
 .texti {
     font-style: italic;
